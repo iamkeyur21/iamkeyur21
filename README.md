@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Linux, Neovim, FullStack Web Development
+I'm currently learning Linux, Neovim, FullStack Web Development and Devops
 
 
 ## 🌐 Socials:
