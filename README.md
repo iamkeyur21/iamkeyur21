@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Linux, Neovim, FullStack Web Development and Devops
+I am working as a Software Test Engineer. I'm currently learning Linux, Neovim, FullStack Web Development and Devops. I wish to become a Full Stack Web Developer.
 
 
 ## 🌐 Socials:
